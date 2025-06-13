@@ -1,0 +1,25 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y backups
+*.log
+*.bak
+*.tmp
+*.old
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+
+# Archivos sensibles
+.env
+.env.*
+
+# Bases de datos locales
+*.sqlite
+*.db
+
+# Configuraciones de editores
+.vscode/
+.idea/
